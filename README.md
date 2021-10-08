@@ -8,8 +8,8 @@
 
 ## Summary Statistics on Suspension
 
-Total Summary
+Total Summary  
 ![Suspension Coil Total Summary](/Resources/Suspension_Coil_Tot_Summary.PNG)
 
-Lot Summary
+Lot Summary  
 ![Suspension Coil Lot Summary](/Resources/Suspension_Coil_Lot_Summary.PNG)
