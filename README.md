@@ -1,4 +1,9 @@
 # MechaCar Statistical Analysis
+
+## Overview
+
+### Purpose
+AutoRUs' new prototype, the MechaCar are suffering from production troubles and are blocking the manufacturing team's progess. The upper management has called the data analytics team to review the production data for insights that may help the manufacturing team.
  
 ## Linear Regression to Predict
 ![MechaCar mpg lm](/Resources/MechaCar_lm_summary.PNG)
