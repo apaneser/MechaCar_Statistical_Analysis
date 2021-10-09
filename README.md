@@ -33,3 +33,7 @@ T-Test Lot2
 
 T-Test Lot3  
 ![T-Test Lot3](/Resources/t_test_lot3.PNG)
+
+* According to the T-Tests, the total has a p-value of 1, which tells us that the means are similar.
+* The t-tests for the lots seperately are different however. the T-tests for both lot1 and lot2 are both below the assumed significance level of 0.05% which means we do not have sufficient evidence that the means for both lots reject the null hypothesis so the means for both lots are not statistically similar.
+* However, the T-test for lot3 is higher then the significance level of 0.05% which tells us that the 2 means are statistically similar.
