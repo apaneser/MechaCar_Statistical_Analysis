@@ -37,3 +37,9 @@ T-Test Lot3
 * According to the T-Tests, the total has a p-value of 1, which tells us that the means are similar.
 * The t-tests for the lots seperately are different however. the T-tests for both lot1 and lot2 are both below the assumed significance level of 0.05% which means we do not have sufficient evidence that the means for both lots reject the null hypothesis so the means for both lots are not statistically similar.
 * However, the T-test for lot3 is higher then the significance level of 0.05% which tells us that the 2 means are statistically similar.
+
+## Study Design: MechaCar vs competition
+In order to test the performance of MechaCar, we would need to compare it to the competition. the first thing I would do is to edit the MechCar data to include the other factors that affect the mpg, like horsepower.
+My Null hypothesis is that horsepower has no affect on mpg and my alternative hypothesis is that horsepower does have either a positive effect or negative effect to the mpg.
+I would use a Linear regression model to test this hypothesis on both the MechaCar data and the data we have on the competition. A consumer will likely want a car that is both powerful and gas saving and the line we get from the linear regression model would show us exactly where the Mecha Car stands in terms of those two metrics.
+The higher the slope is from 0, the more our mpg is being affected by the car's performance. If the competition has a slope more closer to 0 than our car does, this may mean that the competition has a car that is both more performant and fuel efficient compared to our cars at the same power rating, depending on how much the intercept affects the overall data.
